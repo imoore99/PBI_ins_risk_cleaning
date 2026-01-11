@@ -1,0 +1,11 @@
+,value_type,metric,value
+0,kpi,gross_aal,140653378.96667865
+1,kpi,retention_paid,10000000.0
+2,kpi,working_paid,40000000.0
+3,kpi,layer1_paid,50000000.0
+4,kpi,seawall,40653378.0
+5,kpi,catbond_paid,0.0
+6,kpi,supercatbond_paid,0.0
+7,kpi,excess_loss,0.0
+8,kpi,tvar_net_loss,1205053234.0
+9,kpi,tvar_gross_loss,1995053234.0
